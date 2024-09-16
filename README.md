@@ -1,16 +1,19 @@
-## Hi there 👋
+# Чубукин Кирилл
 
-<!--
-**ChubukinKirill/ChubukinKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Аналитик
 
-Here are some ideas to get you started:
+--------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Обо мне 
+Я начинающий аналитик, получаю высшее образование в НИУ ВШЭ на программе Бизнес-информатика.
+Технологии которые я применяю в проектах:
+Python (NumPy, Pandas, SciPy, Scikit-learn, XGBoost, CatBoost) для моделей
+Python (Matplotlib, Seaborn, Plotly) для визуализации
+SQL (MySQL, MS SQL)
+Power BI, Tableau для дашбордов
+
+--------------------------------------------------------------------
+
+### Языки
+* Русский (родной)
+* Английский (B2)
