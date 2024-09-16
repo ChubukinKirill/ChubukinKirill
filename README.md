@@ -7,10 +7,10 @@
 ### Обо мне 
 Я начинающий аналитик, получаю высшее образование в НИУ ВШЭ на программе Бизнес-информатика.
 Технологии которые я применяю в проектах:
-Python (NumPy, Pandas, SciPy, Scikit-learn, XGBoost, CatBoost) для моделей
-Python (Matplotlib, Seaborn, Plotly) для визуализации
-SQL (MySQL, MS SQL)
-Power BI, Tableau для дашбордов
+Python (NumPy, Pandas, SciPy, Scikit-learn, XGBoost, CatBoost) для моделей;
+Python (Matplotlib, Seaborn, Plotly) для визуализации;
+SQL (MySQL, MS SQL);
+Power BI, Tableau для дашбордов;
 
 --------------------------------------------------------------------
 
